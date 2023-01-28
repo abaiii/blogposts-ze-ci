@@ -1,0 +1,17 @@
+baseURL = 'https://blog.ze.ci/'
+languageCode = 'en-us'
+title = "ze.ci Blog"
+theme = "paper"
+author = "Francie Jiang"
+
+[params]
+    color = 'linen'
+    twitter = 'erykolde'
+    github = 'franci-e'
+    rss = true
+
+    avatar = 'https://ze.ci/assets/avatar.webp'
+    name = 'Francie Jiang'
+    bio = 'a prosaic senior high student'
+
+    monoDarkIcon = true
